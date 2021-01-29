@@ -1,3 +1,5 @@
+![My Logo creater: Anja Warnken](./img/Header.gif)
+
 ### Hi there, I'm Peter - aka [DarkJumper]👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DarkJumper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DarkJumper94)
